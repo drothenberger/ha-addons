@@ -1,7 +1,7 @@
 {
-  "name": "ESPHome Selective Updates",
+  "name": "ESPHome Selective Updates (local)",
   "version": "2.0.0",
-  "slug": "esphome_selective_updates",
+  "slug": "esphome_selective_updates_local",
   "description": "Smart bulk updates for ESPHome devices - only updates devices that need it, with resume capability",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
